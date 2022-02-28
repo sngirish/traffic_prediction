@@ -6,4 +6,4 @@ Traffic forecast is a typical time-series prediction problem, i.e. predicting th
 <p align="center"><img width="30%" height="30%" src="figures/Graph_Structured_Traffic_Data.png"></p> 
   
 **Fig.1 Graph-structured traffic data.**  
-Each <a href="https://www.codecogs.com/eqnedit.php?latex=v_t" target="_blank"><img src="https://latex.codecogs.com/gif.latex?v_t" title="v_t" /></a>  indicates a frame of current traffic status at time step *t*, which is recorded in a graph-structured data matrix.
+Each indicates a frame of current traffic status at time step *t*, which is recorded in a graph-structured data matrix.
